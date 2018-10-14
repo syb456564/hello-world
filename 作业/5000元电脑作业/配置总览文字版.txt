@@ -1,0 +1,8 @@
+CPU：第八代Inter酷睿i5  8600k  六核  价格：2199元
+硬盘：英特尔（Intel）545S系列 256G SATA3 固态硬盘  价格：429元
+内存条：金士顿(Kingston)骇客神条 Fury系列 DDR4 2400 8G 台式机内存  价格：499元
+主板：华硕（ASUS）PRIME B250M-PLUS 主板（Intel B250/LGA 1151）  价格：669元
+显卡：铭影GTX1050Ti显卡4G   GTX1050ti 4GBD5战将   价格：898元
+显示器：微软之星（MicroStar）E2209 21.5英寸商务办公不闪屏LED背光液晶台式组装电脑显示器（VGA接口）价格：429元
+机箱：酷冷至尊（coolermaster）MasterBox Lite 5(睿)台式电脑主机中塔机箱(ATX主板/前镜面板/侧透/独立电源仓) 价格：299元
+价格合计：5332元
